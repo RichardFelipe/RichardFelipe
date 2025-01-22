@@ -30,7 +30,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará exemplos do meu trabalho c
 4. **Colaboração**: Trabalho em equipe para garantir a correção de problemas e melhorar a experiência do usuário.
 
 ## 📊 Estatísticas do GitHub
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)](https://github.com/seu-usuario)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RichardFelipe&show_icons=true&theme=radical)](https://github.com/RichardFelipe)
 
 ## 📢 Entre em Contato
 - **Email**: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
