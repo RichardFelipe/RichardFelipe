@@ -13,23 +13,15 @@ Bem-vindo ao meu repositório! Aqui você encontrará exemplos do meu trabalho c
   - Execução e registro de bugs.
 - **Testes Automatizados**:
   - Criação de scripts em [Robot Framework](https://robotframework.org/) e [Selenium](https://www.selenium.dev/).
-  - Integração com CI/CD (ex.: GitLab).
+  - Integração com CI/CD 
 - **Ferramentas de Teste**:
   - Postman para testes de API.
   - JMeter para testes de performance.
 - **Linguagens**:
-  - Python, JavaScript.
+  - Python
 
-## 🔬 Projetos Destacados
-### Teste Automatizado com Robot Framework
-- **Descrição**: Script que automatiza o cadastro de usuários em um sistema web (exemplo: 'Autenticador Hammer' do Detran).
-- **Recursos**:
-  - Preenchimento automático de formulários (CPF, Nome, Matrícula, Email).
-  - Geração de relatórios de execução.
   
 ### Validação de APIs com Postman
-- **Descrição**: Coleções para validar endpoints REST, com testes de resposta, autenticação e cenários negativos.
-- **Destaque**: Criação de scripts pré e pós-teste em JavaScript.
 
 ## 🔧 Como eu Trabalho
 1. **Entendimento dos Requisitos**: Analiso documentos, histórias de usuário e cenários fornecidos pela equipe.
