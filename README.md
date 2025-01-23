@@ -34,6 +34,6 @@ Bem-vindo ao meu repositório! Aqui você encontrará exemplos do meu trabalho c
 
 ## 📢 Entre em Contato
 - **Email**: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/richardassis/)
+- **LinkedIn**: [linkedin.com/in/richardassis](https://www.linkedin.com/in/richardassis/)
 
 Sinta-se à vontade para explorar os repositórios e deixar seus comentários. Vamos aprender juntos!
