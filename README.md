@@ -33,7 +33,7 @@ Bem-vindo ao meu repositório! Aqui você encontrará exemplos do meu trabalho c
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RichardFelipe&show_icons=true&theme=radical)](https://github.com/RichardFelipe)
 
 ## 📢 Entre em Contato
-- **Email**: [seuemail@exemplo.com](mailto:seuemail@exemplo.com)
+- **Email**: [seuemail@exemplo.com](mailto:RichardFelipe526@gmail.com)
 - **LinkedIn**: [linkedin.com/in/richardassis](https://www.linkedin.com/in/richardassis/)
 
 Sinta-se à vontade para explorar os repositórios e deixar seus comentários. Vamos aprender juntos!
